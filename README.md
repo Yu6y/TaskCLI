@@ -17,10 +17,16 @@ TaskCli command [params]
 ### Commands
 
 add "name of task" - to add new task
+
 update id "new name" - to updated task with given ID
+
 delete id - to delete task with given ID
+
 list - to list all tasks
+
 list done - to list done tasks
+
 list todo - to list todo tasks
+
 list in-progress - to list in-progress tasks.
 
