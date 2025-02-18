@@ -30,3 +30,7 @@ list todo - to list todo tasks
 
 list in-progress - to list in-progress tasks.
 
+### More Info
+
+Project from [roadmap.sh](https://roadmap.sh/). Project details: [details](https://roadmap.sh/projects/task-tracker).
+
